@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning civil engineering
 - 💞️ I’m looking to collaborate on SQL data analysis
 - 📫 How to reach me mweuscott1@gmail.com
-- 😄 Pronouns: HE/HIM
 
 <!---
 Scott-mw/Scott-mw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
